@@ -1,0 +1,42 @@
+250
+296 GTB
+308
+330
+348
+355 F1
+360
+365
+400
+430
+456
+456M
+458
+488
+488 Pista
+512
+550
+575M
+599
+612
+812 GTS
+812 Superfast
+California
+Dino
+F12 Berlinetta
+F12 tdf
+F355
+F430
+F512
+F8 Spider
+F8 Tributo
+FF
+GTC4Lusso
+LaFerrari
+Mondial
+Portofino
+Portofino M
+Roma
+SF90 Spider
+SF90 Stradale
+Superamerica
+Testarossa

@@ -1,0 +1,35 @@
+Looks like sensible conclusions can be gotten at the point we have 100 data points
+and usually under 100,000 miles, but this isnt necisarily the same for older cars
+
+
+Proof of concept build:
+
+✔ work out how to package data @done (06/11/2022, 13:44:50)
+
+im thinking each model/make/year combo needs its own firebase record, containing
+trendline params, number of data points or maybe just confidence rating (low, 
+medium, high), 10 best cars in category (pre render ratings? idk)
+
+☐ build data packageing into proccessCarData() function
+
+☐ upload data to firebase
+
+☐ build front end, should be quick, base off wordle 
+
+
+
+
+
+Recode:
+
+☐ need to improve trendlines, doesnt account for skewness of data
+
+☐ Should be a bunch more metrics we can get brainstorm this shit
+
+☐ fix buggy ass selenium code 
+
+☐ scale up data to top 5 most sold cars in the uk
+
+☐ host and get URL setup
+
+☐ sign up to our mailing list popup

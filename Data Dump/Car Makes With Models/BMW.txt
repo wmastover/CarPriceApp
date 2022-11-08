@@ -1,0 +1,64 @@
+1 Series
+1502
+1602
+2 Series
+2 Series Active Tourer
+2 Series Gran Coupe
+2 Series Gran Tourer
+2002
+3 Series
+3 Series Gran Turismo
+4 Series
+4 Series Gran Coupe
+5 Series
+5 Series Gran Turismo
+6 Series
+6 Series Gran Coupe
+6 Series Gran Turismo
+7 Series
+8 Series
+8 Series Alpina B8
+8 Series Gran Coupe
+Alpina B10
+Alpina B3
+Alpina B4
+Alpina B5
+Alpina B8
+Alpina D3
+Alpina D4
+Alpina D5
+Alpina Roadster
+Alpina Unspecified Models
+Alpina XB7
+Alpina XD3
+M1
+M2
+M3
+M4
+M5
+M6
+M6 Gran Coupe
+M8
+M8 Gran Coupe
+X1
+X2
+X3
+X3 M
+X4
+X4 M
+X5
+X5 M
+X6
+X6 M
+X7
+Z1
+Z3
+Z3 M
+Z4
+Z4 M
+Z8
+i3
+i4
+i8
+iX
+iX3

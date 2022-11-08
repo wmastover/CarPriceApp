@@ -1,0 +1,11 @@
+EX
+FX
+G
+M
+Q30
+Q50
+Q60
+Q70
+QX30
+QX70
+Vettel

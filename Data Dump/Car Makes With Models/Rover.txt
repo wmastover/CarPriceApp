@@ -1,0 +1,16 @@
+100
+200
+25
+400
+45
+600
+75
+75 Tourer
+800
+Cabriolet
+Metro
+Mini
+P2
+P5
+P6
+Streetwise

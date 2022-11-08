@@ -1,0 +1,59 @@
+80
+A1
+A2
+A3
+A3 Cabriolet
+A4
+A4 Allroad
+A4 Avant
+A4 Cabriolet
+A5
+A5 Cabriolet
+A6 Allroad
+A6 Avant
+A6 Saloon
+A6 Unspecified
+A7
+A8
+Allroad
+Cabriolet
+Coupe
+Q2
+Q3
+Q4 e-tron
+Q5
+Q7
+Q8
+R8
+RS Q3
+RS e-tron GT
+RS2
+RS3
+RS4
+RS4 Avant
+RS4 Cabriolet
+RS5
+RS6
+RS6 Avant
+RS7
+RSQ8
+S1
+S3
+S4
+S4 Avant
+S4 Cabriolet
+S5
+S6 Avant
+S6 Saloon
+S7
+S8
+SQ2
+SQ5
+SQ7
+SQ8
+TT
+TT RS
+TTS
+e-tron
+e-tron GT
+e-tron S

@@ -1,0 +1,25 @@
+Accent
+Amica
+BAYON
+Coupe
+Elantra
+Genesis
+Getz
+IONIQ
+IONIQ 5
+KONA
+Matrix
+Santa Fe
+Sonata
+TUCSON
+Terracan
+Trajet
+Veloster
+i10
+i20
+i30
+i40
+i800
+iLoad
+ix20
+ix35

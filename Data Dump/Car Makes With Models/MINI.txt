@@ -1,0 +1,11 @@
+Clubman
+Clubvan
+Convertible
+Countryman
+Coupe
+Electric
+Hatch
+Moke
+Paceman
+Roadster
+Unspecified
